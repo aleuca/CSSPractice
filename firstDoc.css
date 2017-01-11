@@ -1,0 +1,25 @@
+
+ul {
+  color: #FFA651;
+  border: black 1px solid;
+}
+
+h1 {
+  color: rgba(100, 0, 100, .6);
+}
+
+h4 {
+  color: rgb(2,60,13);
+}
+
+body {
+  /*background-image: url("/Users/alinaleuca//Desktop/corgi.jpg");*/
+}
+
+#interest_yoga {
+  color: #FFA651;
+}
+
+.to_do_list {
+  text-decoration: line-through;
+}
