@@ -1,0 +1,52 @@
+
+.col-xs-4 {
+  margin-top: 30px;
+  margin-right: 1.6%;
+  margin-left: 1.6%;
+  width: 30%;
+  border: 1px grey solid;
+  padding: 2px;
+  border-radius: 20px;
+  height: 300px;
+  /*margin-right: 1%;
+  margin-left: 1%;*/
+  /*padding-right: ;
+  padding-left: ;*/
+}
+
+.navbar-default .navbar-brand {
+  width: 20%;
+}
+
+button .navbar-toggle.collapsed {
+  display: inline-block;
+
+}
+
+#after_hr {
+  display: inline-block;
+  float:left;
+  margin-top: 10px;
+}
+
+.my-4 {
+  border-bottom: 1px grey solid;
+  width: 40%;
+  margin-left:0;
+}
+
+.jumbotron {
+  margin: 0 15%;
+  border-radius:15px;
+}
+
+.navbar-default {
+  background-color: rgba(76, 154, 185, .8);
+}
+
+.navbar-default .navbar-brand {
+  color: black;
+}
+.navbar-default .navbar-nav>li>a {
+  color: black;
+}
